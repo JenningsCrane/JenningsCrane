@@ -16,25 +16,51 @@ Let's connect and build the future together! 🌟
 
 <h2> Technical Skills 🛠 </h2>
 
-<h3 align="left">Programming Languages:</h3>
+### 🚀 Languages:
 
 <div>
   <a href= https://github.com/JenningsCrane?tab=repositories&q=&type=&language=c&sort= > <img width ='64px' src  ='https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg'> </a>
   <a href= https://github.com/JenningsCrane?tab=repositories&q=&type=&language=c%2B%2B&sort= > <img width ='64px' src   ='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg'> </a>
 </div>
 
+### 🗄️ Databases:
 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3 align="left">Cloud & DevOps:</h3>
+### 🌟 Frameworks:
+
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+
+### 💻 IDEs/Editors:
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 👾 Other tools:
 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab_CICD-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+  
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Make](https://img.shields.io/badge/Make-%23008FBA.svg?color=red&style=for-the-badge&logo=Make&logoColor=white)
 
-<h3 align="left">Operating Systems:</h3>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
-
+### *C/C++*  
+| Project name      | Project date     | Description | Stack |
+| ------------- | ------------------------ | ------------------------ | ------------------------ |
+| [3dViewer v2.0]() | 09.2023 | Implementation of 3DViewer v2.0 program for viewing 3D models in wireframe view | C++, OOP, QT, Makefile, QMake, GTest, OpenGL |
+| [Calculator in CPP](https://github.com/JenningsCrane/Calculator-in-CPP) | 08.2023 | Realization of calculator in C++ languages using QT framework | C++, OOP, QT, Makefile, QMake, GTest |
+| [Containers CPP library](https://github.com/JenningsCrane/Containers-CPP-Library) | 08.2023 | Realization of own library of C++ STL containers |  C++, OOP, Makefile, GTest |
+| [Matrix CPP library](https://github.com/JenningsCrane/Matrix-CPP-Library) | 06.2023 | Realization of own version of library for working with matrixes s21_matrix.a in c++ language |  C++, OOP, Makefile, GTest |
+| [3DViewer in C](https://github.com/JenningsCrane/3DViewer-in-C) | 05.2023 | Implementation of 3DViewer v1.0 program for viewing 3D models in wireframe view |  C, C++, OOP, QT, Makefile, QMake, Check.h, OpenGL |
+| [Calculator in C](https://github.com/JenningsCrane/Calculator-in-C) | 04.2023 | Realization of calculator in C and C++ languages using QT framework |  C, C++, OOP, QT, Makefile, QMake, Check.h |
+| [Matrix library](https://github.com/JenningsCrane/Matrix-Library) | 02.2023 | Implementation of my own version of the library for working with matrixes | C, Makefile, Check.h |
+| [Decimal library](https://github.com/JenningsCrane/Decimal-Library) | 02.2023 | Implementation of my own version of the decimal.h library | C, Makefile, Check.h |
+| [String library](https://github.com/JenningsCrane/String-Library) | 02.2023 | Implementation of my own version of the string.h library | C, Makefile, Check.h |
+| [Math library](https://github.com/JenningsCrane/Math-Library) | 01.2023 | Implementation of my own version of the math.h library | C, Makefile, Check.h |
+| [Bash Utils cat grep](https://github.com/JenningsCrane/Bash-Utils-cat-grep) | 01.2023 |  Development of Bash text utilities: cat, grep | C, Makefile, Check.h |
