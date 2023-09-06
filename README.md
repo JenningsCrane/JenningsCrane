@@ -1,8 +1,8 @@
 
 # Hi there! 👋
-## I'm Aleksandr Prozorov, I'm a student of the programming school "School 21".
+## I'm Aleksandr Prozorov and I'm a student of "School 21".
 
-Let's connect and build the future together! 🌟
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+backend+developer+(Java))
 
 ---
 
@@ -21,6 +21,7 @@ Let's connect and build the future together! 🌟
 <div>
   <a href= https://github.com/JenningsCrane?tab=repositories&q=&type=&language=c&sort= > <img width ='64px' src  ='https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg'> </a>
   <a href= https://github.com/JenningsCrane?tab=repositories&q=&type=&language=c%2B%2B&sort= > <img width ='64px' src   ='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg'> </a>
+  <img width ='64px' src  ='https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg'>
 </div>
 
 ### 🗄️ Databases:
