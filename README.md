@@ -54,7 +54,7 @@
 ### *C/C++*  
 | Project name      | Project date     | Description | Stack |
 | ------------- | ------------------------ | ------------------------ | ------------------------ |
-| [3dViewer v2.0]() | 09.2023 | Implementation of 3DViewer v2.0 program for viewing 3D models in wireframe view | C++, OOP, QT, Makefile, QMake, GTest, OpenGL |
+| [3dViewer v2.0](https://github.com/JenningsCrane/3DViewer-in-CPP) | 09.2023 | Implementation of 3DViewer v2.0 program for viewing 3D models in wireframe view | C++, OOP, QT, Makefile, QMake, GTest, OpenGL |
 | [Calculator in CPP](https://github.com/JenningsCrane/Calculator-in-CPP) | 08.2023 | Realization of calculator in C++ languages using QT framework | C++, OOP, QT, Makefile, QMake, GTest |
 | [Containers CPP library](https://github.com/JenningsCrane/Containers-CPP-Library) | 08.2023 | Realization of own library of C++ STL containers |  C++, OOP, Makefile, GTest |
 | [Matrix CPP library](https://github.com/JenningsCrane/Matrix-CPP-Library) | 06.2023 | Realization of own version of library for working with matrixes s21_matrix.a in c++ language |  C++, OOP, Makefile, GTest |
