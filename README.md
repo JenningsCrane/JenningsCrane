@@ -12,7 +12,7 @@
 - 📫 How to reach me:
 >
  [![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dr.san4ess@mail.ru)
- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mrsan4ess)
+ [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jenningc)
 
 <h2> Technical Skills 🛠 </h2>
 
