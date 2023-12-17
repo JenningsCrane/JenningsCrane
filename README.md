@@ -51,6 +51,14 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+### *Java*
+| Project name      | Description | Stack |
+| ------------- | ------------------------ | ------------------------ |
+| [JDBC Simple Chat](https://github.com/JenningsCrane/JDBC-Simple-Chat) | Simple local chat (Java) using JDBC and Maven | Java, OOP, Maven, JDBC, HikariCP, Java Collections Framework, PostreSQL, Exceptions |
+| [JUnit5 Mockito tests](https://github.com/JenningsCrane/Junit5-Mockito-tests) | Using JUnit 5/Mockito | Java, OOP, Maven, JDBC, HikariCP, JUnit 5, Mockito, Java Collections Framework, Exceptions |
+| [Reflection Java](https://github.com/JenningsCrane/Reflection-Java) | Using reflection Java | Java, OOP, Maven, JDBC, Reflection, Annotations, ORM, PostreSQL, Java Collections Framework, Exceptions |
+| [Terminal game Java](https://github.com/JenningsCrane/Terminal-game-Java) | Simple game using multimodules Maven project | Java, OOP, Maven (multimodules), Java Collections Framework, Exceptions |
+
 ### *C/C++*  
 | Project name      | Project date     | Description | Stack |
 | ------------- | ------------------------ | ------------------------ | ------------------------ |
