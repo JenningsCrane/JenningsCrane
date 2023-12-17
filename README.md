@@ -21,7 +21,7 @@
 <div>
   <a href= https://github.com/JenningsCrane?tab=repositories&q=&type=&language=c&sort= > <img width ='64px' src  ='https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg'> </a>
   <a href= https://github.com/JenningsCrane?tab=repositories&q=&type=&language=c%2B%2B&sort= > <img width ='64px' src   ='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg'> </a>
-  <img width ='64px' src  ='https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg'>
+  <a href= https://github.com/JenningsCrane?tab=repositories&q=&type=&language=java&sort= > <img width ='64px' src  ='https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg'> </a>
 </div>
 
 ### 🗄️ Databases:
@@ -30,6 +30,8 @@
 
 ### 🌟 Frameworks:
 
+![Spring](https://camo.githubusercontent.com/49f645b5e439b0d748424412207eae5748b81d77563f866d8528f60c66b669e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e672d2532333644423333462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465)
+![Hibernate](https://camo.githubusercontent.com/b5599128de44cd34a576338d295da8fcd8fb6d9a3bfdbc6905bf7b84081f12c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48696265726e6174652d2532333644423333462e7376673f636f6c6f723d626c7565267374796c653d666f722d7468652d6261646765266c6f676f3d48696265726e617465266c6f676f436f6c6f723d7768697465)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 ### 💻 IDEs/Editors:
