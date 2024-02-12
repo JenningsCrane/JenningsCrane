@@ -2,7 +2,7 @@
 # Hi there! 👋
 ## I'm Aleksandr Prozorov and I'm a student of "School 21".
 
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+backend+developer+(Java))
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+backend+developer)
 
 ---
 
