@@ -1,6 +1,6 @@
 
 # Hi there! 👋
-## I'm Aleksandr Prozorov and I'm a student of "School 21".
+## I'm Aleksandr Prozorov.
 
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+backend+developer)
 
