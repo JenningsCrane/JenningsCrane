@@ -61,7 +61,7 @@
 ### *Java*
 | Project name      | Description | Stack |
 | ------------- | ------------------------ | ------------------------ |
-| [Task Tracker](https://github.com/JenningsCrane/Task-Tracker) | Microservice based on Spring, using boot, MVC and working with a database. Similar to Trello, you can create tasks for yourself and share them with others.  | Java, Maven, Spring MVC, Hibernate, Lombok(logs), PostgreSQL, JPA, Data, Stream API |
+| [Task Tracker](https://github.com/JenningsCrane/TaskTracker) | Microservice based on Spring, using boot, MVC and working with a database. Similar to Trello, you can create tasks for yourself and share them with others.  | Java, Maven, Spring MVC, Hibernate, Lombok(logs), PostgreSQL, JPA, Data, Stream API |
 | [Telegram WeatherBot](https://github.com/JenningsCrane/tgweatherbot) | Telegram bot showing the weather in any city  | Java 11, Maven, Spring Boot, Lombok(logs), PostgreSQL, JPA, JSON |
 | [JDBC Simple Chat](https://github.com/JenningsCrane/JDBC-Simple-Chat) | Simple local chat (Java) using JDBC and Maven | Java, OOP, Maven, JDBC, HikariCP, Java Collections Framework, PostreSQL, Exceptions |
 | [JUnit5 Mockito tests](https://github.com/JenningsCrane/Junit5-Mockito-tests) | Using JUnit 5/Mockito | Java, OOP, Maven, JDBC, HikariCP, JUnit 5, Mockito, Java Collections Framework, Exceptions |
