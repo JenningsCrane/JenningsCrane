@@ -6,7 +6,7 @@
 
 ---
 
-- 🔭 I’m currently studying at the **programming school "School 21"**
+- 🔭 I’m studying at the **programming school "School 21"**
 - 🌱 I’m currently learning **Java**
 - 👯 I’m looking for an internship / job in developing IT companies as a backend Java-developer
 - 📫 How to reach me:
